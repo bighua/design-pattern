@@ -1,0 +1,23 @@
+## folders
+/bin
+/build
+/bak
+/conf
+/dist
+/lib
+/ivy/cache
+/instrumented
+/uninstrumented
+.cache
+/.external*
+/plugin/bak
+.svn
+
+## files
+/.project
+/.classpath
+.settings
+cobertura.ser
+.checkstyle
+.mymetadata
+WebRoot/WEB-INF/lib/
